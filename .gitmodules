@@ -1,3 +1,6 @@
 [submodule "03-主控程序"]
 	path = 03-主控程序
 	url = https://github.com/hawav/gdqy-bishe-firmware
+[submodule "04-WebApp"]
+	path = 04-WebApp
+	url = https://github.com/hawav/gdqy-bishe-webapp
